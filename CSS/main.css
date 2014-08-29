@@ -22,3 +22,17 @@
 	color:#000000;
 	text-decoration:underline;
 }
+.index-title {
+     color:blue;
+}
+.video-title {
+	color:red;
+}
+.links-title a {
+	color:pink;
+    text-decoration:none;
+}
+.links-title a:hover {
+	color:green;
+    text-decoration:none;
+}
