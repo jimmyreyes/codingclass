@@ -1,16 +1,14 @@
 
-body {
-
-	background-color:yellow;
-    padding:40px;
-    
-
-}
-h1 {
-	color:blue;
-    font-size:40;
+.container
+{
+	
+width: 740px ;
+margin: auto ;
 }
 
-h3 {
-	color:y;
+.main-header
+{
+	height: 110px
+        color:#fff;
+    background:royalblue;
 }
