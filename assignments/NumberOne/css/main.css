@@ -1,6 +1,36 @@
-
-.index-testing
-{ 
-	color:blue;
-	background:pink;
+.main-header{
+	background:#666699;
+	padding:50px;
+	text-align:center;
+	font-size:400%;
+	color:#fff;
+}
+.main-footer{
+	background:#855c33;
+	text-align:center;
+	font-style:100%;
+	padding-top:20px;
+	padding-bottom:30px;
+}
+.main-list {
+	list-style:none;
+	text-align:center-left;
+}
+.left {
+	float: left;
+	width:200px;
+	padding: 
+}
+.right {
+	float:right;
+	width:760px;
+	padding: 0px 12px;
+}
+.side-para {
+	font-size:12px;
+	text-align:left;
+	padding-left: 10px
+}
+.main-nav ul {
+	list-style:none;
 }
