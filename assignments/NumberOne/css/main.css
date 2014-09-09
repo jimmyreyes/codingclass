@@ -15,17 +15,16 @@
 .main-list {
 	list-style:none;
 	text-align:center-left;
+	text-decoration:none;
 }
+
 .left {
 	float: left;
 	width:200px;
-	height:1000px; 
+	height:500px;
+	padding-right: 20px; 
 }
-.right {
-	float:left;
-	width:760px;
-	padding: 0px 12px;
-	height:1000px;
+
 }
 .side-para {
 	font-size:12px;
