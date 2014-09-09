@@ -22,7 +22,7 @@
 	height:1000px; 
 }
 .right {
-	float:right;
+	float:left;
 	width:760px;
 	padding: 0px 12px;
 	height:1000px;
@@ -34,10 +34,4 @@
 }
 .main-nav ul{
 	list-style:none;
-}
-.header-image{
-	height:200px;
-	float:left;
-	
-
 }
