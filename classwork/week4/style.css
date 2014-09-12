@@ -1,0 +1,25 @@
+.container {
+width:960px;
+margin: 0 auto;
+background-color: #888896;
+border: 5px dotted #ff0000;
+
+}
+
+.main-header {
+height:100px;
+background-color: #0000ff;
+padding: 20px;
+
+}
+
+.main-content {
+min-height: 500px;
+
+}
+
+.main-footer {
+height: 50px;
+background-color: #0000ff;	
+
+}
