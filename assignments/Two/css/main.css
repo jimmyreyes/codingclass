@@ -1,0 +1,111 @@
+.main-container {
+	width: 900px;
+	padding:60px; 
+	background-color: #000;
+}
+
+.main-header {
+	width: 40px;
+	color: #fff;
+	font-size: 20px;
+	text-align: left;
+}
+
+.main-body{
+	width: 900px;
+	height:1000px;
+	background-color: #fff;
+}
+
+.side-bar {
+	width:900px;
+	height:30px;
+}
+
+.side-bar ul {
+	list-style: none;
+}
+
+.side-bar ul li{
+	padding: 0 20px;
+    float: left;
+    line-height: 50px;
+    background-color: #20b2aa; 
+}
+
+.side-bar ul li a{
+	color:#000;
+	text-decoration: none;
+}
+
+.side-bar ul li a:hover {
+	text-decoration: none;
+	color:#20b2aa;
+}
+
+.h1{
+	color: orange;
+	padding: 10px 40px;
+}
+
+.side-para {
+	float: left;
+	width: 150px;
+	padding: 40px;
+}
+
+.boxes .GUT {
+	float:left;
+	font-size: 15px;
+	width: 140px;
+	padding: 12px 40px;
+	background-color: #20b2aa;
+}
+
+.boxes .GLD {
+	float:left;
+	font-size: 15px;
+	width: 140px;
+	padding: 30px 40px;
+	background-color: #20b2aa;
+}
+
+.boxes .WST {
+	float:left;
+	font-size: 15px;
+	width: 140px;
+	padding: 30px 40px;
+	background-color: #20b2aa;
+}
+
+.boxes .SWU {
+	float:left;
+	font-size: 15px;
+	width: 140px;
+	padding: 30px 40px;
+	background-color: #20b2aa;
+}
+
+.boxes .TBA {
+	float:left;
+	font-size: 15px;
+	width: 140px;
+	padding: 12px 40px;
+	background-color: #20b2aa;
+}
+
+.boxes .ABBS {
+	float:left;
+	font-size: 15px;
+	width: 140px;
+	padding: 30px 40px;
+	background-color: #20b2aa;
+}
+
+.boxes .CBBS {
+	float:left;
+	font-size: 15px;
+	width: 140px;
+	padding: 30px 50px;
+	background-color: #fff;
+}
