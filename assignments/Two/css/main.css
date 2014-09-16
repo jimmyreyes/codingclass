@@ -1,24 +1,36 @@
 .main-container {
-	width: 900px;
-	padding:60px; 
+	width: 960px;
+	padding:60px;
+	margin: 0 auto; 
 	background-color: #000;
 }
 
 .main-header {
-	width: 40px;
+	width: 120px;
+	height: 100px;
 	color: #fff;
-	font-size: 20px;
-	text-align: left;
+	font-size: 30px;
+	padding-top: 50px;
+
+	float: left;
+	background-color: #000;
+     
+}
+
+.pacman {
+	float: left;
+	width: 840px;
+	height: 150px;
 }
 
 .main-body{
-	width: 900px;
+	width: 960px;
 	height:1000px;
 	background-color: #fff;
 }
 
 .side-bar {
-	width:900px;
+	width:960px;
 	height:30px;
 }
 
@@ -27,7 +39,7 @@
 }
 
 .side-bar ul li{
-	padding: 0 20px;
+	padding: 0 15px;
     float: left;
     line-height: 50px;
     background-color: #20b2aa; 
@@ -43,7 +55,7 @@
 	color:#20b2aa;
 }
 
-.h1{
+.h1 {
 	color: orange;
 	padding: 10px 40px;
 }
@@ -51,61 +63,11 @@
 .side-para {
 	float: left;
 	width: 150px;
-	padding: 40px;
+	padding: 40px 20px;
 }
 
-.boxes .GUT {
-	float:left;
-	font-size: 15px;
-	width: 140px;
-	padding: 12px 40px;
-	background-color: #20b2aa;
-}
-
-.boxes .GLD {
-	float:left;
-	font-size: 15px;
-	width: 140px;
-	padding: 30px 40px;
-	background-color: #20b2aa;
-}
-
-.boxes .WST {
-	float:left;
-	font-size: 15px;
-	width: 140px;
-	padding: 30px 40px;
-	background-color: #20b2aa;
-}
-
-.boxes .SWU {
-	float:left;
-	font-size: 15px;
-	width: 140px;
-	padding: 30px 40px;
-	background-color: #20b2aa;
-}
-
-.boxes .TBA {
-	float:left;
-	font-size: 15px;
-	width: 140px;
-	padding: 12px 40px;
-	background-color: #20b2aa;
-}
-
-.boxes .ABBS {
-	float:left;
-	font-size: 15px;
-	width: 140px;
-	padding: 30px 40px;
-	background-color: #20b2aa;
-}
-
-.boxes .CBBS {
-	float:left;
-	font-size: 15px;
-	width: 140px;
-	padding: 30px 50px;
-	background-color: #fff;
+#boxes{
+    padding:40px 30px;
+    float: left;
+    font-size: 6px;
 }
