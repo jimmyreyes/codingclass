@@ -2,7 +2,9 @@
 	width: 960px;
 	padding:60px;
 	margin: 0 auto; 
-	background-color: #000;
+	background-image: url('http://fc02.deviantart.net/fs40/i/2009/046/d/3/black_damask_by_MT_Schorsch.jpg');
+	background-size: cover;
+
 }
 
 .main-header {
@@ -11,17 +13,11 @@
 	color: #fff;
 	font-size: 30px;
 	padding-top: 50px;
-
 	float: left;
 	background-color: #000;
      
 }
 
-.pacman {
-	float: left;
-	width: 840px;
-	height: 150px;
-}
 
 .main-body{
 	width: 960px;
@@ -36,6 +32,7 @@
 
 .side-bar ul {
 	list-style: none;
+	
 }
 
 .side-bar ul li{
@@ -55,7 +52,9 @@
 	color:#20b2aa;
 }
 
-.h1 {
+.our-services {
+	float: left;
+	width:960px;
 	color: orange;
 	padding: 10px 40px;
 }
@@ -66,8 +65,26 @@
 	padding: 40px 20px;
 }
 
-#boxes{
-    padding:40px 30px;
-    float: left;
-    font-size: 6px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
