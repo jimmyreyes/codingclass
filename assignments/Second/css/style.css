@@ -1,0 +1,118 @@
+.main-container {
+	width: 960px;
+	height:1000px;
+	background-image: url('http://fc02.deviantart.net/fs40/i/2009/046/d/3/black_damask_by_MT_Schorsch.jpg');
+	background-size: cover;
+	margin: 0 auto;
+}
+.main-header {
+	color: #fff;
+	font-size: 25px;
+	background-color: none;
+	width: 90px;
+	padding-top: 40px;
+	padding-right: 850px;
+	padding-left: 20px;
+}
+
+.main-body {
+	width: 920px;
+	padding: 0 10px;
+	background-color: #000;
+}
+
+.main-nav {
+	width: 960px;
+	height: 30px;
+}
+
+.main-nav ul {
+	list-style: none;
+	border: 10px; 
+	border-spacing: 5px
+}
+
+.main-nav ul li {
+	text-decoration: none;
+	background-color: #20ffbb;
+	padding: 0 15px;
+    float: left;
+    line-height: 50px;
+}
+
+.main-nav ul li a{
+	color:#000;
+	text-decoration: none;
+}
+
+.main-nav ul li a:hover {
+	text-decoration: none;
+	color:#fff;
+}
+
+.main-space {
+	background-color: #fff;
+	width: 860px;
+	padding: 0 20px;
+	height:800px;
+}
+
+.main-space h1 {
+	width: 840px;
+	padding: 20px 20px;
+	color: #000;
+	background-color: #fff;
+}
+.side-para {
+	padding: 10px 6px;
+	width: 192px;
+	height: 80px;
+	font-size: 20px;
+	color: #000;
+	float: left;
+}
+
+.box{
+  width: 200px;
+  height: 300px;
+  float: left;
+  border: 2px solid #20ffbb;
+  margin: 0 auto;
+  background-color: #20ffbb;
+  position: relative; /*Notice you need this to hover the box */
+}
+
+.box .box-image {
+  width: 200px;
+}
+
+.box-image img {
+  width: 200px;
+  height: 150px;
+}
+
+.box .box-text {
+  color: #fff;
+  text-align: center;
+}
+
+.hover-box {
+  width: 100%;
+  overflow: hidden;
+  position: absolute; /* This is position absolute from the first relative container, which is .box*/
+  top: 100px;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+}
+
+.main-footer {
+	width: 200px;
+	height: 20px;
+	padding:0 330px;
+	color: #fff;
+}
